@@ -16,7 +16,7 @@ I decided to start learn new profession because it's interesting for me but very
 + GitHub
 + Git Bash
 ****
-### Code example:
+### Code example from Codewars.com:
 ```
 function multiply(a, b){
   return a * b
