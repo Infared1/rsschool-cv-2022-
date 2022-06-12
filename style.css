@@ -87,6 +87,13 @@ Style.css
             ul {
               color:#000000
             }
+            footer {
+              background: #C9B4D8;
+              color: #1a0635; 
+            }
 
+            .container {
+              text-align: center; }
+    
       
     </style>
